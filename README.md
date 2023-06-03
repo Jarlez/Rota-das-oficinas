@@ -7,7 +7,7 @@ para a implementação desde que ao final exista uma página HTML interativa com
 Ao finalizar o teste, favor compartilhar a solução de todos os exercícios que conseguiu resolver
 em um link aberto no Google Drive. Certifique-se de que o link é público para termos acesso ao
 código e não se esqueça de incluir instruções sobre como rodar seu projeto. Caso não consiga
-resolver todos os exercícios, não deixe de nos enviar os que conseguiu. Boa sorte!
+resolver todos os exercícios, não deixe de nos enviar os que conseguiu. <strong>Boa sorte!</strong>
 
 
 <h2>Tarefa 1. Conversor de números romanos</h2>
