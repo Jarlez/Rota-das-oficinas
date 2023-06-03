@@ -1,6 +1,6 @@
 # Rota das oficinas
 
-Teste de Programação - Rota das Oficinas
+<h1>Teste de Programação - Rota das Oficinas</h1>
 Seja bem-vindo(a) ao nosso Teste de Programação! Nesta etapa serão passados 3
 desafios para você solucionar. Você pode utilizar qualquer ferramenta, biblioteca ou framework
 para a implementação desde que ao final exista uma página HTML interativa com a resolução.
@@ -9,11 +9,13 @@ em um link aberto no Google Drive. Certifique-se de que o link é público para 
 código e não se esqueça de incluir instruções sobre como rodar seu projeto. Caso não consiga
 resolver todos os exercícios, não deixe de nos enviar os que conseguiu. Boa sorte!
 
-<br>
-Tarefa 1. Conversor de números romanos
+
+<h2>Tarefa 1. Conversor de números romanos</h2>
 A sua tarefa será fazer um conversor de números romanos para arábicos e vice-versa.
 Para a tarefa, considerar apenas números inteiros positivos entre 1 e 3999.
-Sobre números romanos:
+
+<h3>Sobre números romanos:</h3>
+
 Os números romanos são indicações numéricas utilizadas para indicar séculos,
 capítulos e páginas de livros, horas dos relógios, nomes dos papas e reis, dentre outros.
 São representados por letras maiúsculas, num total de 7 numerações: I (1), V (5), X (10),
