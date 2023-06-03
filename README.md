@@ -18,9 +18,11 @@ Para a tarefa, considerar apenas números inteiros positivos entre 1 e 3999.
 
 Os números romanos são indicações numéricas utilizadas para indicar séculos,
 capítulos e páginas de livros, horas dos relógios, nomes dos papas e reis, dentre outros.
+
 São representados por letras maiúsculas, num total de 7 numerações: I (1), V (5), X (10),
 L (50), C (100), D (500), M (1000). Para representar outros números, são escritos alguns
 algarismos, começando do algarismo de maior valor e seguindo a seguinte regra:
+
 - Algarismos de menor ou igual valor à direita são somados ao algarismo de maior valor;
 - Algarismos de menor valor à esquerda são subtraídos do algarismo de maior valor.
 Assim, XI representa 10 + 1 = 11, enquanto XC representa 100-10 = 90.
